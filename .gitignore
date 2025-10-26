@@ -1,0 +1,10 @@
+# Python/venv (на будущее)
+.venv/
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# Системное
+Thumbs.db
